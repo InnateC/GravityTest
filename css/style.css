@@ -1,0 +1,29 @@
+html, body {
+  width: 100%; 
+  height: 100%;
+
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: monospace;
+}
+
+.button1 {
+  background-color: #3cc540;
+  
+  border: none;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* font-size: small; */
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+
+  position: absolute;
+  left: 50%;
+  right: 50%; 
+  
+}
+
