@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Denispro567/GravityTest.git"
+    "url": "git+https://github.com/InnateC/GravityTest.git"
   },
   "keywords": [
     "JEST"
@@ -16,9 +16,9 @@
   "author": "InnateCoder",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Denispro567/GravityTest/issues"
+    "url": "https://github.com/InnateC/GravityTest/issues"
   },
-  "homepage": "https://github.com/Denispro567/GravityTest#readme",
+  "homepage": "https://github.com/InnateC/GravityTest#readme",
   "devDependencies": {
     "jest": "^26.4.2"
   },
